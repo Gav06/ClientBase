@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "clientbase",
+        "name": "ClientBase",
+        "description": "base for a minecraft client",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Gav06"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
